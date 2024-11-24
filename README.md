@@ -1,7 +1,7 @@
-### Olá! Eu me chamo Felipe Souza ✨
+### Olá! Eu me chamo Felipe
 
-### Apaixonado por criar experiências digitais incríveis. Concentro minha carreira no desenvolvimento front-end, onde posso combinar minha criatividade com minha habilidade técnica para construir interfaces de usuário intuitivas e atraentes. Desenvolvi uma sólida experiência em HTML, CSS e JavaScript, aprimorada através de projetos práticos e constantes aprendizados. Com objetivo em criar, não apenas interfaces bonitas, mas principalmente funcionais e centradas no usuário. Além das habilidades técnicas, valorizo ​​a colaboração e a comunicação eficaz.
-
+### desenvolvedor com habilidade para me comunicar de forma clara e eficaz, flexível para lidar com mudanças e adaptável a novas situações.
+Desenvolvedor front-end com experiência em React e Tailwind CSS. Também atuo em back-end, utilizando Node.js e MongoDB para construir APIs e gerenciar dados de forma eficiente.
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FelpsSantosx&show_icons=true&theme=dracula)
 
