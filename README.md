@@ -66,11 +66,3 @@ Me considero uma pessoa adaptável, com facilidade para lidar com novos desafios
 </div>
 
 ---
-
-### 🌐 Contato
-
-- [LinkedIn](https://www.linkedin.com/in/felipesouza-dev/)
-- [GitHub](https://github.com/FelpsSantosx)
-
----
-
